@@ -13,6 +13,7 @@
 
 - Max 4 KPI cards
 - 4 charts
+- Formatting is secondary
 
 ## Stage 2
 - Upcoming
