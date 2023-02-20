@@ -1,4 +1,4 @@
-# DSM---Dashboards
+# DSM-Dashboards/Udisha
 
 ## Adidas Fashion Retail Products Dashboard
 
