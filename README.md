@@ -1,13 +1,13 @@
 # DSM-Dashboards/Udisha
 
-## Dashboard
+## Dashboard : Adidas Fashion Retail Products
 
 - Objective : Build 3 Dashboards with same data
 - Excel
 - Power BI
 - Google Studio
 
-- Chosen Entity : 
+- Chosen Entity : Product Popularity
 
 ## Stage 1
 
