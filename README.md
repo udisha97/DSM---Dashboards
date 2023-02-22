@@ -7,7 +7,7 @@
 - Excel - Adidas Fashion Retail Products
 - Power BI - Adidas Fashion Retail Products
 - Google Studio
-- Tbaleau - Banking Dashboard
+- Tableau - Banking Dashboard
 
 - Chosen Entity : Product Popularity
 
