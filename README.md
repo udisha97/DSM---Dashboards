@@ -3,19 +3,18 @@
 ## Dashboard : 
 
 
-- Objective : Build 3 Dashboards with same data
+- Objective : Build multiple Dashboards 
 - Excel - Adidas Fashion Retail Products
 - Power BI - Adidas Fashion Retail Products
 - Google Studio
-- Tableau - Banking Dashboard
+- Tableau - 1.) Banking Dashboard 2.) Renee Cosmetics Dashboard
 
-- Chosen Entity : Product Popularity
+- Chosen Entity : Product Popularity , Ad-Campaign performance
 
 ## Stage 1
 
-- Max 4 KPI cards
+- 4 KPI cards
 - 4 charts
-- Formatting is secondary
+- Formatting (secondary)
 
-## Stage 2
-- Upcoming
+
